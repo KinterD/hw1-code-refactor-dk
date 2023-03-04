@@ -1,2 +1,3 @@
 # hw1-code-refactor-dk
-U or R Coding Bootcamp Challenge 1
+### U or R Coding Bootcamp Challenge 1
+**Assignment Description:** 
