@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* This is for the styling of the header portion of the webpage.*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero styles the large image in the center of the webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/*This is for the styling of the aside on the lower right side of the webpage.*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +104,7 @@ aside {
     max-width: 150px;
 }
 
+/*This is for the styling of the three sections on the lower left to center portion of the webpage.*/
 .sectionheading {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +123,7 @@ aside {
     font-size: 36px;
 }
 
+/*This is for the styling of the footer at the bottom of the webpage.*/
 .footer {
     padding: 30px;
     clear: both;
